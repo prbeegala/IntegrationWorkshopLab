@@ -1,6 +1,6 @@
 # Integration/Logic App lab 
 
-![Logic App](/exercisefiles/images/Drawing1.png)
+![Logic App](/images/Drawing1.png)
 # Step 0 - Create Resource Group
 
 1. Navigate to Azure Portal and create a Resource Group.
